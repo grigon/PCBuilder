@@ -1,0 +1,12 @@
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/bin/Debug/netcoreapp3.1/PCBuilder.deps.json
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/bin/Debug/netcoreapp3.1/PCBuilder.runtimeconfig.json
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/bin/Debug/netcoreapp3.1/PCBuilder.runtimeconfig.dev.json
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/bin/Debug/netcoreapp3.1/PCBuilder.dll
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/bin/Debug/netcoreapp3.1/PCBuilder.pdb
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/obj/Debug/netcoreapp3.1/PCBuilder.csprojAssemblyReference.cache
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/obj/Debug/netcoreapp3.1/PCBuilder.AssemblyInfoInputs.cache
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/obj/Debug/netcoreapp3.1/PCBuilder.AssemblyInfo.cs
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/obj/Debug/netcoreapp3.1/PCBuilder.csproj.CoreCompileInputs.cache
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/obj/Debug/netcoreapp3.1/PCBuilder.dll
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/obj/Debug/netcoreapp3.1/PCBuilder.pdb
+/Users/GrzegorzNorberciak/Documents/codecool/projects/PCBuilder/PCBuilder/obj/Debug/netcoreapp3.1/PCBuilder.genruntimeconfig.cache

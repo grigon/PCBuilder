@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCBuilder", "PCBuilder\PCBuilder.csproj", "{CE0C9A03-0C98-47CC-833A-A1A0BCC1CCE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE0C9A03-0C98-47CC-833A-A1A0BCC1CCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0C9A03-0C98-47CC-833A-A1A0BCC1CCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0C9A03-0C98-47CC-833A-A1A0BCC1CCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0C9A03-0C98-47CC-833A-A1A0BCC1CCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
